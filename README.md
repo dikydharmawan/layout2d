@@ -1,6 +1,7 @@
 # layout2d
 
-A new Flutter project.
+# Ahmad Diky Dharmawan
+![screenshoot praktikum](assets/image/01.png)
 
 ## Getting Started
 
